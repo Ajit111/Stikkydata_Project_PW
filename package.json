@@ -4,10 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajit111/Stikkydata_Project_PW.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ajit111/Stikkydata_Project_PW/issues"
+  },
+  "homepage": "https://github.com/Ajit111/Stikkydata_Project_PW#readme",
   "devDependencies": {
     "@playwright/test": "^1.60.0",
     "@types/node": "^25.9.2"
